@@ -1,1 +1,4 @@
 # gitOefening
+<?php 
+echo"hallo";
+?>
