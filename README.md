@@ -1,5 +1,0 @@
-# gitOefening
-<?php 
-echo"hallo";
-?>
-/
